@@ -4,6 +4,12 @@ body{
   text-align: center;
 }
 
+footer{
+  height: 40px;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
 .section{
   display: flex;
   flex-direction: column;
